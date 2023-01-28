@@ -1,0 +1,35 @@
+<!-- nada abdulrahem alshamrani 2006968-->
+
+p{ font-family: arial,helvetica,sans-serif;
+font-size:20px;
+color:#4a148c;
+text-align:left;
+}
+
+
+h2{ font-family:arial,helvetica,sans-serif;
+
+color:#4a148c;
+text-align:left;
+position:relative;
+text-indent:1em;
+border-wedith:thick;
+border-style:double;
+
+}
+
+ul{ font-family: arial,helvetica,sans-serif;
+font-size:20px;
+color:#4a148c;
+text-align:left;
+}
+
+.border{
+font-family:arial,helvetica,sans-serif;
+border-style:double;
+font-size:20px;
+border-wedith:thick;
+color:#4a148c;
+background-color:#e1bee7;
+border-top:none;
+}
